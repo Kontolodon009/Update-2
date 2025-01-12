@@ -5,8 +5,14 @@ url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfil
 
 
 #EXTINF:-1 tvg-logo="" tvg-name="PRESS CONFERENCE LIVE" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",LIVE PRESS CONFERENCE
-
 https://rocket-tv.online/youtube/yt.m3u8?id=GXrxZxyepWY
+
+#EXTINF:-1 tvg-logo="" tvg-name="MLBB LIVE EVENT" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",MLBB LIVE EVENT
+https://rocket-tv.online/youtube/yt.m3u8?id=BntCQsWaD-E
+
+#EXTINF:-1 tvg-logo="" tvg-name="DOTA 2 LIVE EVENT" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",DOTA 2 LIVE EVENT
+https://rocket-tv.online/youtube/yt.m3u8?id=fEG-SSb2BbE
+
 
 
 
