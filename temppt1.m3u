@@ -4,6 +4,14 @@
 url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="PRESS CONFERENCE LIVE" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",LIVE PRESS CONFERENCE
+
+https://rocket-tv.online/youtube/yt.m3u8?id=GXrxZxyepWY
+
+
+
+
+
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 YOUTUBE 24/7
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
